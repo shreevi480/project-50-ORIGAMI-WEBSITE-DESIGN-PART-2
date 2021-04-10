@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+}
+p{
+    color: maroon;
+  }
+   li{
+       color: rgb(12, 2, 2);
+   }
+  img{
+      border: solid;
+      display: flexbox;
+  }
+  h1{
+      background-color: rgb(214, 26, 26);
+  }
